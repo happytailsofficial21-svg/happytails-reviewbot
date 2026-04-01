@@ -264,16 +264,16 @@
 | 파일 | 버전 | GitHub 경로 |
 |------|------|-------------|
 | 마스터가이드 | v1 | docs/master_guide_v1.md |
-| 답변원칙 | v6 | docs/답변원칙_v6.md |
-| 인사말DB | v2 | docs/인사말DB_v2.md |
-| 제품자랑DB | v1.3 | docs/제품자랑DB_v1_3.md |
-| 패턴학습 | v2 | docs/패턴학습_v2.md |
-| 상품DB | v1.1 | docs/상품DB_v1_1.md |
-| 리뷰DB | v1 | docs/리뷰DB_v1.md |
-| 답변템플릿 | v1 | docs/답변템플릿_v1.md |
-| 워크플로우 | v1 | docs/리뷰답글_워크플로우_v1.md |
-| 히스토리 | v1.9 | docs/히스토리_리뷰_v1_9.md |
-| 주간태스크 | v1.5 | docs/주간태스크_v1_5.md |
+| 답변원칙 | v6 | docs/reply_rules_v6.md |
+| 인사말DB | v2 | docs/greeting_db_v2.md |
+| 제품자랑DB | v1.3 | docs/product_highlight_db_v1_3.md |
+| 패턴학습 | v2 | docs/pattern_analysis_v2.md |
+| 상품DB | v1.1 | docs/product_db_v1_1.md |
+| 리뷰DB | v1 | docs/review_db_v1.md |
+| 답변템플릿 | v1 | docs/reply_template_v1.md |
+| 워크플로우 | v1 | docs/review_workflow_v1.md |
+| 히스토리 | v1.9 | docs/history_v1_9.md |
+| 주간태스크 | v1.5 | docs/weekly_tasks_v1_5.md |
 | 메모리백업 | v1 | docs/memory_backup_v1.md |
 
 ---

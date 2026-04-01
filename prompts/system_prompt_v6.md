@@ -26,11 +26,11 @@ https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/
 
 | 작업 | fetch할 파일 (raw URL + 경로) |
 |------|-------------------------------|
-| **답변 작성** | `docs/master_guide_v1.md` + `docs/답변원칙_v6.md` + `docs/인사말DB_v2.md` + `docs/제품자랑DB_v1_3.md` |
-| **크롤링** | `docs/상품DB_v1_1.md` + 해당 크롤러 |
-| **패턴/CS 확인** | `docs/패턴학습_v2.md` |
-| **전체 현황** | `docs/히스토리_리뷰_v1_9.md` + `docs/주간태스크_v1_5.md` |
-| **불만 대응** | `docs/master_guide_v1.md` + `docs/패턴학습_v2.md` |
+| **답변 작성** | `docs/master_guide_v1.md` + `docs/reply_rules_v6.md` + `docs/greeting_db_v2.md` + `docs/product_highlight_db_v1_3.md` |
+| **크롤링** | `docs/product_db_v1_1.md` + 해당 크롤러 |
+| **패턴/CS 확인** | `docs/pattern_analysis_v2.md` |
+| **전체 현황** | `docs/history_v1_9.md` + `docs/weekly_tasks_v1_5.md` |
+| **불만 대응** | `docs/master_guide_v1.md` + `docs/pattern_analysis_v2.md` |
 
 ### fetch 예시
 ```
