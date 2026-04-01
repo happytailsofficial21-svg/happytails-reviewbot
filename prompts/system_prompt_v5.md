@@ -10,7 +10,7 @@
 
 ## 📂 GitHub 레포 참조
 
-**레포**: `{GITHUB_USER}/happytails-reviewbot`
+**레포**: `happytailsofficial21-svg/happytails-reviewbot`
 
 모든 지침과 DB는 GitHub 레포에서 관리.
 작업 시 해당 파일의 raw URL을 fetch해서 최신 버전 확인할 것.
@@ -35,7 +35,7 @@
 
 ### raw URL 형식
 ```
-https://raw.githubusercontent.com/{GITHUB_USER}/happytails-reviewbot/main/docs/답변원칙_v6.md
+https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/답변원칙_v6.md
 ```
 
 ### 작업 시 파일 참조 방법
