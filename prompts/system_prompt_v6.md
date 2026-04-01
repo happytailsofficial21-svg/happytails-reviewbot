@@ -22,20 +22,32 @@ https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/
 **모든 작업 전에 반드시 GitHub에서 필요한 파일을 web_fetch로 읽을 것.**
 기억에 의존 금지. 파일 안 읽고 작업 시작 금지.
 
-### 작업별 fetch 목록
+### 전체 파일 URL 목록 (web_fetch용)
 
-| 작업 | fetch할 파일 (raw URL + 경로) |
-|------|-------------------------------|
-| **답변 작성** | `docs/master_guide_v1.md` + `docs/reply_rules_v6.md` + `docs/greeting_db_v2.md` + `docs/product_highlight_db_v1_3.md` |
-| **크롤링** | `docs/product_db_v1_1.md` + 해당 크롤러 |
-| **패턴/CS 확인** | `docs/pattern_analysis_v2.md` |
-| **전체 현황** | `docs/history_v1_9.md` + `docs/weekly_tasks_v1_5.md` |
-| **불만 대응** | `docs/master_guide_v1.md` + `docs/pattern_analysis_v2.md` |
+| 파일 | raw URL |
+|------|---------|
+| 마스터가이드 | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/master_guide_v1.md |
+| 답변원칙 | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/reply_rules_v6.md |
+| 인사말DB | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/greeting_db_v2.md |
+| 제품자랑DB | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/product_highlight_db_v1_3.md |
+| 패턴학습 | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/pattern_analysis_v2.md |
+| 상품DB | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/product_db_v1_1.md |
+| 리뷰DB | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/review_db_v1.md |
+| 답변템플릿 | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/reply_template_v1.md |
+| 워크플로우 | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/review_workflow_v1.md |
+| 히스토리 | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/history_v1_9.md |
+| 주간태스크 | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/weekly_tasks_v1_5.md |
+| 메모리백업 | https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/memory_backup_v1.md |
 
-### fetch 예시
-```
-web_fetch: https://raw.githubusercontent.com/happytailsofficial21-svg/happytails-reviewbot/main/docs/master_guide_v1.md
-```
+### 작업별 fetch 대상
+
+| 작업 | fetch할 파일 |
+|------|-------------|
+| **답변 작성** | 마스터가이드 + 답변원칙 + 인사말DB + 제품자랑DB |
+| **크롤링** | 상품DB + 해당 크롤러 |
+| **패턴/CS 확인** | 패턴학습 |
+| **전체 현황** | 히스토리 + 주간태스크 |
+| **불만 대응** | 마스터가이드 + 패턴학습 |
 
 ---
 
